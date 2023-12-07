@@ -1,0 +1,21 @@
+body > main {
+    background-image: url(../assets/images/background-pattern-desktop.svg);
+ 
+
+}
+body > main > section {
+
+    width: 65vw;
+
+
+}
+body > main > section > div> h1 {
+    font-size: 3em;
+
+    margin-bottom: 40px;
+}
+body > main > section > div >img {
+    
+    margin-right: 30px;
+    width:45px;
+}
